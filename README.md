@@ -14,3 +14,5 @@ A simple, easy-to-use number converter application built in Python. The **Number
    ```bash/cmd
    git clone https://github.com/yourusername/Number-Converter.git
    cd Number-Converter
+##Get a LOOK of how it is!
+![Capture](https://github.com/user-attachments/assets/1ae0d31e-e82f-4425-9a1b-9885cce39143)
